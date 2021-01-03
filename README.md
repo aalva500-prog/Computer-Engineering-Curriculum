@@ -13,7 +13,6 @@ The application meets the following requirements:
 * [x] It guarantees the updating of all the information shown in the reports.
 * [x] It a lows updating the database (insertion, modification, elimination).
 * [x] Allows advanced search through various parameters and filters on the information of the database.
-* [x] Multilanguage (English and Spanish).
 
 The application allows the following reports:
 * [x] Show the grid of subjects by year, indicating the corresponding precedents.
