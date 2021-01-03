@@ -1,8 +1,10 @@
 ## Author: Aaron Alvarez
 
-## Computer-Engineering-Currilum
+## Java GUI App with database integration: Computer-Engineering-Currilum
 
 ### Purpose: The objective of this application was to make the Computer Engineering curriculum at the CUJAE computer school available to teachers and students. To this end, all the information about the courses, disciplines and relationships between them could be consulted.
+
+### Tools used: PostgreSQL, Java, Swing, Eclipse
 
 The application allows the following reports:
 * [x] Show the grid of subjects by year, indicating the corresponding precedents.
