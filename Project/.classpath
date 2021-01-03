@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/nimrodlf.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse Workspace/ExposicionG-25 Equipo 4/Project/lib/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse Workspace/ExposicionG-25 Equipo 4/Project/lib/commons-logging-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse Workspace/ExposicionG-25 Equipo 4/Project/lib/commons-logging-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse Workspace/ExposicionG-25 Equipo 4/Project/lib/jasperreports-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse Workspace/ExposicionG-25 Equipo 4/Project/lib/postgresql-8.1-404.jdbc2.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse Workspace/ExposicionG-25 Equipo 4/Project/lib/postgresql-8.1-404.jdbc2ee.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse Workspace/ExposicionG-25 Equipo 4/Project/lib/postgresql-8.1-404.jdbc3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse Workspace/ExposicionG-25 Equipo 4/Project/lib/postgresql-8.1-405.jdbc3.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
