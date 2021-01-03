@@ -4,7 +4,7 @@
 
 ### Purpose: The objective of this application was to make the Computer Engineering curriculum at the CUJAE computer school available to teachers and students. To this end, all the information about the courses, disciplines and relationships between them could be consulted.
 
-### Tools used: PostgreSQL, Java, Swing, Eclipse, JasperReports
+### Tools used: Java, Eclipse, PostgreSQL, JasperReports, SQL, WindowsBuilder, Swing
 
 The application meets the following requirements:
 * [x] Guarantees user authentication and authorization in the application, establishing an adequate security policy based on roles (make use of session variables). Passwords are encrypted.
